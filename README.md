@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy Monserrat 👋
 
-<!--
-**MonseGlez/MonseGlez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrolladora Full Stack | Especialista Odoo | Python & JavaScript**
 
-Here are some ideas to get you started:
+### 💼 Sobre mí
+Desarrolladora con 3+ años creando 80+ módulos personalizados en Odoo.
+Experta en Python, JavaScript y PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Stack Tecnológico
+- **Lenguajes:** Python, JavaScript, XML
+- **Frameworks:** Odoo (v11, v14, v18)
+- **Bases de datos:** PostgreSQL
+- **DevOps:** Docker, Linux, Git
+- **APIs:** REST, HubSpot, Endpoints propios
